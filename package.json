@@ -69,7 +69,7 @@
     "@types/jest-sinon": "^1.0.2",
     "@types/node": "^15.0.2",
     "@types/sinon": "^10.0.2",
-    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
     "@typescript-eslint/parser": "^4.0.1",
     "@uniswap/v2-core": "^1.0.1",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
