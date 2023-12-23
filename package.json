@@ -50,7 +50,7 @@
     "bunyan": "^1.8.15",
     "bunyan-blackhole": "^1.1.1",
     "bunyan-debug-stream": "^2.0.0",
-    "ethers": "^5.6.1",
+    "ethers": "^6.0.8",
     "graphql": "^15.5.0",
     "graphql-request": "^6.1.0",
     "hardhat": "^2.9.8",
